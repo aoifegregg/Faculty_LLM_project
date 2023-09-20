@@ -1,0 +1,3 @@
+einops
+ninja
+auto-gptq

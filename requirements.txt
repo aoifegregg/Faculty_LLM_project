@@ -1,0 +1,14 @@
+psycopg2
+matplotlib
+pandas
+sqlalchemy
+numpy
+regex
+transformers
+spacy
+datetime
+torch
+torchvision
+torchaudio
+kaleido==0.1.0post1
+plotly
